@@ -46,7 +46,6 @@ author:
   scopus           : # URL
   zotero           : # URL
 
-
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
@@ -66,7 +65,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : edo-almeida # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
