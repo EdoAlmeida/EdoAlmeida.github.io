@@ -16,7 +16,10 @@ main:
     
   - title: "CV"
     url: /cv/
-
+  
+  - title: "Education"
+    url: /education/
+    
   - title: "About"
     url: "/about/"
     
