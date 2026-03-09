@@ -7,58 +7,86 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Education
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**M.Sc. in Production Engineering and Systems (ongoing)**  
+Pontifícia Universidade Católica do Paraná (PUCPR), Brazil  
+Advisor: Prof. Helon Vicente Hultmann Ayala  
+CAPES Scholarship
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**B.Sc. in Control and Automation Engineering**  
+Pontifícia Universidade Católica do Paraná (PUCPR), Brazil  
+Undergraduate Thesis: *Automated Drilling Machine for Gas Burner Tubes*  
+Advisor: Prof. Ricardo Alexandre Diogo
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Technical High School Education**  
+Universidade Tecnológica Federal do Paraná (UTFPR), Brazil
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+---
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Professional Experience
+
+**Electrical Design Engineer**  
+Suzuki Indústria e Comércio de Máquinas Ltda., Brazil  
+1999 – Present
+
+Responsibilities include:
+
+- Development of automation systems for industrial laundry equipment  
+- Design of electrical and pneumatic systems  
+- PLC programming and integration of frequency drives  
+- Implementation of safety adaptations according to Brazilian standards (NR-10 and NR-12)  
+- Development of technical documentation and operation manuals
+
+---
+
+## Publications
+
+**Almeida, E. W.; Braz, G. O.; Tartari, G. R.; Santos, J. M.; Nepomuceno, L. M.; Ayala, H. V. H.**  
+Two-Wheel Inverted Pendulum Robot: Design, Modeling, Simulation, and Control.  
+*28th International Congress of Mechanical Engineering (COBEM), 2025.*
+
+**Lima, L. C.; Jose, I. A.; Paula, P. G.; Almeida, E. W.; Simoes, D. B. P.; Nepomuceno, L. M.; Ayala, H. V. H.**  
+Quarter Drone Bench for System Identification and Control.  
+*28th International Congress of Mechanical Engineering (COBEM), 2025.*
+
+**Ramos, I. R.; Costa, R. A. B.; Almeida, E. W.; Ayala, H. V. H.**  
+Tabular Prior-data Fitted Network for Structural Damage Prediction.  
+*28th International Congress of Mechanical Engineering (COBEM), 2025.*
+
+---
+
+## Conference Presentations
+
+Quarter Drone Bench for System Identification and Control.  
+28th International Congress of Mechanical Engineering (COBEM), 2025.
+
+Tabular Prior-data Fitted Network for Structural Damage Prediction.  
+28th International Congress of Mechanical Engineering (COBEM), 2025.
+
+Two-Wheel Inverted Pendulum Robot: Design, Modeling, Simulation, and Control.  
+28th International Congress of Mechanical Engineering (COBEM), 2025.
+
+---
+
+## Technical Skills
+
+**Programming and Control**
+
+- PLC programming
+- Control systems design
+- System identification and modeling
+- Industrial automation
+
+**Research Tools**
+
+- Python
+- MATLAB
+- Computer vision techniques
+- Motion analysis using DeepLabCut
+
+**Engineering Tools**
+
+- Electrical and pneumatic system design
+- Industrial automation systems
+- Development of experimental platforms
