@@ -1,3 +1,11 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+
 ## Conference Papers
 
 Almeida, E. W., Braz, G. O., Tartari, G. R., Santos, J. M., Nepomuceno, L. M., & Ayala, H. V. H.  
