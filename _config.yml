@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Edo Almeida / Projects & Publications"
+title                    : "Edo Almeida"
 title_separator          : "-"
 name                     : &name "Edo Walfrido de Almeida"
 description              : &description "Academic website with projects, publications and research activities."   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Edo W. Almeida"
   pronouns         : # example: "she/her"  
-  bio              : "M.Sc. student in Control and Automation Engineering at PUCPR. Research on wheeled biped robots, dynamic balance control and learning-based modeling."
+  bio              : "M.Sc. student in Control and Automation Engineering at PUCPR, working on wheeled biped robots, dynamic balance control and learning-based modeling."
   location         : "Curitiba, Paraná, Brazil"
   employer         : "Pontifícia Universidade Católica do Paraná"
   uri              : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "EdoAlmeida"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -155,7 +155,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  false # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
 
@@ -302,7 +302,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Etc/UTC # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Sao_Paulo # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
