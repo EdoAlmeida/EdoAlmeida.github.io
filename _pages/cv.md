@@ -16,7 +16,7 @@ CAPES Scholarship
 
 **B.Sc. in Control and Automation Engineering**  
 Pontifícia Universidade Católica do Paraná (PUCPR), Brazil  
-Undergraduate Thesis: *Automated Drilling Machine for Gas Burner Tubes*  
+Undergraduate Thesis: **Furadeira Automatizada para Tubos de Queimadores a Gás** (Automated Drilling Machine for Gas Burner Tubes)  
 Advisor: Prof. Ricardo Alexandre Diogo
 
 **Technical High School Education**  
