@@ -23,7 +23,7 @@ repository               : "EdoAlmeida/edoalmeida.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_edo.png"
   name             : "Edo W. Almeida"
   pronouns         : # example: "she/her"  
   bio              : "M.Sc. student in Control and Automation Engineering at PUCPR, working on wheeled biped robots, dynamic balance control and learning-based modeling."
