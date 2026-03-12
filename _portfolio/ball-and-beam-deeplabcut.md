@@ -3,7 +3,7 @@ title: "Ball and Beam Motion Analysis Using DeepLabCut"
 collection: portfolio
 excerpt: "Computer vision-based extraction of angular position and angular velocity from experimental videos."
 header:
-  teaser: /images/projects/dlc_project.png
+  teaser: /images/bab_dlc_test.png
 ---
 <p align='middle'>
 <img src='/images/bab_dlc_test.png'>  
