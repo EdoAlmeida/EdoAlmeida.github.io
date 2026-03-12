@@ -7,7 +7,7 @@ header:
 ---
 
 <p align="center">
-  <img src="images/bab_dlc_test.png">
+  <img src="/images/bab_dlc_test.png">
 </p>
 
 This project focuses on the extraction of kinematic variables from experimental videos of a Ball and Beam system using DeepLabCut and Python-based post-processing tools. The workflow combines markerless pose estimation, geometric reconstruction and signal processing techniques to estimate angular position and angular velocity from video recordings.  
