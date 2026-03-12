@@ -5,7 +5,7 @@ excerpt: "Computer vision-based extraction of angular position and angular veloc
 header:
   teaser: /images/bab_dlc_test.png
 ---
-</br>
+<br>
 <p>
 <img src="/images/bab_dlc_test.png">
 </p>
