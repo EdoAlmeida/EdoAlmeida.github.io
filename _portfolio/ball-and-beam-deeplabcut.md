@@ -34,4 +34,4 @@ Tools and technologies:
 
 This repository contains notebooks and source code for the full analysis pipeline. Raw videos and intermediate outputs are not included due to file size limitations.
 
-[Repository](https://github.com/SEU_USUARIO/SEU_REPOSITORIO)
+[Repository](https://github.com/EdoAlmeida/ball-and-beam-dlc)
