@@ -6,7 +6,7 @@ header:
   teaser: /images/bab_dlc_test.png
 ---
 
-<p align="center">
+<p>
 <img src="/images/bab_dlc_test.png">
 </p>
 
