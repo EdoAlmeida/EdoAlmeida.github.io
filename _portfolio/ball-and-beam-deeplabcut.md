@@ -3,6 +3,7 @@ title: "Ball and Beam Video Analysis Using DeepLabCut"
 collection: portfolio
 excerpt: "Computer vision-based extraction of angular position and angular velocity from experimental videos of a Ball and Beam system."
 ---
+<img src='/images/bab_dlc_test.png'>
 
 This project focuses on the extraction of kinematic variables from experimental videos of a Ball and Beam system using DeepLabCut and Python-based post-processing tools. The workflow combines markerless pose estimation, geometric reconstruction and signal processing techniques to estimate angular position and angular velocity from video recordings.
 
