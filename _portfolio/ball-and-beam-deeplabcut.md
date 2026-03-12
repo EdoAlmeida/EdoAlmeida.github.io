@@ -4,7 +4,7 @@ collection: portfolio
 excerpt: "Computer vision-based extraction of angular position and angular velocity from experimental videos.<br/><br/><img src='/images/bab_dlc_test.png'>"
 ---
 <p align="center">
-  <img src="/images/projects/dlc_project.png" style="margin-top:30px;">
+  <img src="/images/bab_dlc_test.png" style="margin-top:30px;">
 </p>
 
 This project focuses on the extraction of kinematic variables from experimental videos of a Ball and Beam system using DeepLabCut and Python-based post-processing tools. The workflow combines markerless pose estimation, geometric reconstruction and signal processing techniques to estimate angular position and angular velocity from video recordings.  
