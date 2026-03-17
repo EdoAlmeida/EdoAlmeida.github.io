@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Edo Almeida"
-permalink: /
+permalink: /index/
 header:
   overlay_image: /images/banner.jpg
   overlay_filter: 0.35
