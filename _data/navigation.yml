@@ -19,6 +19,9 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "Professional Profile"  # Se quiser ser bem explícito
+    url: https://edoalmeida.github.io/professional
     
   # - title: "CV"
   #   url: /cv-json/
